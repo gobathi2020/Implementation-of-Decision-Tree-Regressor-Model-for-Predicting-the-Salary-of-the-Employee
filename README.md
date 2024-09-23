@@ -10,20 +10,30 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 ## Algorithm
 
 Step 1: Start
+
 Step 2: Import the standard libraries.
+
 Step 3: Upload the dataset and check for any null values using .isnull() function.
+
 Step 4: Import LabelEncoder and encode the dataset.
+
 Step 5: Import DecisionTreeRegressor from sklearn and apply the model on the dataset.
+
 Step 6: Predict the values of arrays.
+
 Step 7: Import metrics from sklearn and calculate the MSE and R2 of the model on the dataset.
+
 Step 8: Predict the values of array.
+
 Step 9: Apply to new unknown values.
+
 Step 10: End
 
 ## Program:
 
 /*
 Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
+
 Developed by: Gobathi P
 RegisterNumber:  212222080017
 */
