@@ -35,6 +35,7 @@ Step 10: End
 Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
 
 Developed by: Gobathi P
+
 RegisterNumber:  212222080017
 */
 
@@ -72,10 +73,9 @@ plt.show()
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/81ad8603-315e-4fed-b917-e17f4ad7748c)
+![image](https://github.com/user-attachments/assets/abd79a4f-2c0f-465e-8597-0b265b7f774f)
 
-![image](https://github.com/user-attachments/assets/dea331bc-b017-4fd4-9b72-4b8536e0057b)
-
+![image](https://github.com/user-attachments/assets/7a064689-86de-47f1-9b68-43a48ef5805c)
 
 
 ## Result:
