@@ -72,7 +72,10 @@ plt.show()
 ```
 
 ## Output:
-![Decision Tree Regressor Model for Predicting the Salary of the Employee](sam.png)
+![image](https://github.com/user-attachments/assets/81ad8603-315e-4fed-b917-e17f4ad7748c)
+
+![image](https://github.com/user-attachments/assets/dea331bc-b017-4fd4-9b72-4b8536e0057b)
+
 
 
 ## Result:
